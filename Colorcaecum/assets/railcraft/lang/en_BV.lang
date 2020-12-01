@@ -8,9 +8,9 @@ railcraft.gates.trigger.aspect.red=Aspect: Line blocked
 railcraft.gates.trigger.aspect.yellow.blink=Aspect: Pairing
 railcraft.gates.trigger.aspect.yellow=Aspect: Line in use
 
-railcraft.gui.aspect.green.name=Line free
-railcraft.gui.aspect.off.name=Off
-railcraft.gui.aspect.blink.red.name=Not paired
-railcraft.gui.aspect.red.name=Blocked
-railcraft.gui.aspect.blink.yellow.name=Pairing
-railcraft.gui.aspect.yellow.name=In use
+gui.railcraft.aspect.green.name=Line free
+gui.railcraft.aspect.off.name=Off
+gui.railcraft.aspect.blink.red.name=Not paired
+gui.railcraft.aspect.red.name=Blocked
+gui.railcraft.aspect.blink.yellow.name=Pairing
+gui.railcraft.aspect.yellow.name=In use
